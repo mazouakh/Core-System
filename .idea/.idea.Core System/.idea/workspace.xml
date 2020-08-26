@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b68ebd86-3263-4393-b723-0f7f10ce3267" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.1.2f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/SlideTween.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/Platinio Slide Tween.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Compressed/UnityCore-master/UnityCore-master/Audio/AudioController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/FadeTween.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/IAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelectionButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Compressed/AudioManager/AudioManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Compressed/AudioManager/Sound.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TilesGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/TabsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TabButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelStat.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/DetailsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/OptionsButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/slider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Slider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Slider2.cs" />
+        <option value="$PROJECT_DIR$/Assets/HorizontalSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/InfoBarItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/Platinio Slide Tween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/IAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TabsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TilesGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TilesButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/SlideTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/InfoBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/FadeTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsGroupe.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/zontalSelectionButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/HorizontalSelectionButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/ToggleButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/InfoBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/Slider2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/TestAudio.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Options/DetailsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/DetailsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TabsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/SliderGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gH70iLVxWnk5XOwQT9HdnlREqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Test Build\Core System.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\zzmou\OneDrive\Documents\Unity Projects\Core System\Test Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b68ebd86-3263-4393-b723-0f7f10ce3267" name="Default Changelist" comment="" />
+      <created>1597759443552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597759443552</updated>
+      <workItem from="1597759449654" duration="53642000" />
+      <workItem from="1597934850357" duration="18000" />
+      <workItem from="1597938065701" duration="31787000" />
+      <workItem from="1598085798552" duration="21807000" />
+      <workItem from="1598115266555" duration="41279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="240" key="RiderGenerateDialog" timestamp="1598174660629">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="761" y="240" key="RiderGenerateDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1598174660629" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1597909333898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597909333898" />
+    <state x="1139" y="160" width="1391" height="1067" key="dock-window-1" timestamp="1597944411949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1139" y="160" width="1391" height="1067" key="dock-window-1/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597944411949" />
+    <state x="621" y="273" width="678" height="592" key="find.popup" timestamp="1598174248939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="273" width="678" height="592" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1598174248939" />
+  </component>
+</project>
