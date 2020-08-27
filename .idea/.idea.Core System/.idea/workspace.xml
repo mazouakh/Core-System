@@ -1,93 +1,503 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b68ebd86-3263-4393-b723-0f7f10ce3267" name="Default Changelist" comment="" />
+    <list default="true" id="b68ebd86-3263-4393-b723-0f7f10ce3267" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Core System/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Core System/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Core System/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Core System/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Core System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Core System/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSans.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSans.otf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSans.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBold.otf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBoldOblique.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBoldOblique.otf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBoldOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansBoldOblique.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansOblique.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansOblique.otf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/FreeSansOblique.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/kenvector_future.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/kenvector_future.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/kenvector_future_thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Font/kenvector_future_thin.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline).meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/bear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/bear.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/buffalo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/buffalo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/chick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/chick.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/chicken.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/chicken.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/cow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/cow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/crocodile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/crocodile.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/dog.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/duck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/duck.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/elephant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/elephant.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/frog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/frog.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/giraffe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/giraffe.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/goat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/goat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/gorilla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/gorilla.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/hippo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/hippo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/horse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/horse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/monkey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/monkey.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/moose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/moose.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/narwhal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/narwhal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/owl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/owl.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/panda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/panda.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/parrot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/parrot.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/penguin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/penguin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/pig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/pig.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/rabbit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/rabbit.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/rhino.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/rhino.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/sloth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/sloth.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/snake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/snake.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/walrus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/walrus.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/whale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/whale.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/zebra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Animals/Round (outline)/zebra.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/arrowRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/arrowRight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/audioOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/audioOn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/backward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/backward.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/barsHorizontal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/barsHorizontal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/cart.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/gear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/gear.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/home.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/red_cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/Icons/red_cross.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/grey_button04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/grey_button04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/grey_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/grey_circle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/grey_panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/grey_panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/metalPanel_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Kenny/UI/metalPanel_blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Other.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Other/rect11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/ArtResources/Sprites/Other/rect11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Prefabs/AnimalPrefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Prefabs/AnimalPrefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/AdvancedUIExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/AdvancedUIExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/AdvancedUIExampleSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/AdvancedUIExampleSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/CatchGame.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/CatchGame.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/CatchGameSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/CatchGameSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ColorTweenExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ColorTweenExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ColorTweenExampleSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ColorTweenExampleSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/EaseShowCase.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/EaseShowCase.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/EaseShowCaseSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/EaseShowCaseSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/LifebarExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/LifebarExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/LifebarExampleSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/LifebarExampleSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/PivotShowCase.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/PivotShowCase.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/PivotShowCaseSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/PivotShowCaseSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/RotationExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/RotationExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/RotationExampleSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/RotationExampleSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ScalingExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ScalingExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ScalingExampleSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/ScalingExampleSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/UI.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/UI.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/UISettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scenes/UISettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/LoginSceneManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/LoginSceneManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIFadeAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIFadeAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIMoveAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIMoveAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIScaleAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UIScaleAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UITranslateAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/AdvancedUIExample/UITranslateAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/CatchGame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/CatchGame/Animal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/CatchGame/Animal.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/CatchGame/AnimalCatchManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/CatchGame/AnimalCatchManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ColorTweenExample.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ColorTweenExample/ColorTweenExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ColorTweenExample/ColorTweenExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ColorTweenExample/SpriteColorTweenExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ColorTweenExample/SpriteColorTweenExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/EaseShowCase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/EaseShowCase/EaseShowcase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/EaseShowCase/EaseShowcase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/Lifebar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/Lifebar/Lifebar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/Lifebar/Lifebar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/PivotShowCase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/PivotShowCase/PivotMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/PivotShowCase/PivotMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ScalingExample.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ScalingExample/ScalingExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/ScalingExample/ScalingExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/Banner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/Banner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/ButtonColorTransition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/ButtonColorTransition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/GearMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/GearMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/Popup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/Popup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/RotationExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Examples/Scripts/UI/RotationExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Readme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Readme.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/EasingFunctions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/EasingFunctions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/PlatinioTweenExtension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/PlatinioTweenExtension.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Singleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Singleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/BaseTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/BaseTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/ColorTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/ColorTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/MoveTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/MoveTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/QuaternionTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/QuaternionTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/ValueTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/ValueTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/Vector2Tween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/Vector2Tween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/Vector3Tween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/Core/Tweens/Vector3Tween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/PlatinioTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/PlatinioTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/TweenPool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/TweenPool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/UI/RectTransformHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlatinioTween/Scripts/UI/RectTransformHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Credits Item.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Credits Item.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Info Bar Item.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Info Bar Item.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stat.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stat.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/TestAudio.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/TestAudio.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UnityCore/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/GameController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UnityCore/GameManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/Page.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/Page.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/TestMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/TestMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/InfoBar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/InfoBar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/InfoBarItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/InfoBarItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsElement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsElement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TabButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TabButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TabsGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TabsGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/DetailsPanel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/DetailsPanel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/LevelButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/LevelButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/LevelStat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/LevelStat.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/MenuController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/MenuController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Options.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Options/SettingsMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Options/SettingsMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/FadeTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/FadeTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/IAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/IAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/Platinio Slide Tween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/Platinio Slide Tween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/SlideTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/SlideTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelectionButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelectionButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/SliderGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/SliderGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/BG.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Coins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Coins.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Gems.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Gems.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/Info Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/Info Bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/Main Board Separated.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/Main Board Separated.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/Quit Button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/Quit Button.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/chalenges.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/chalenges.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/compain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/compain.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/time Attack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Home/time Attack.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Files.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Files.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Grid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Left bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Left bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Right bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Right bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Salvation Day.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Levels/Salvation Day.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Audio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Audio.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Credits.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Credits.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Gamepad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Gamepad.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Gameplay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Gameplay.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Graphics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Graphics.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Grid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/Main Panel/Support.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Grid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Highlited line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Highlited line.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Outline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Outline.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Scroll bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/Scroll bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/V Line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/V Line.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/arrows.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/button dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/button dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/button white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/button white.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/highlighted arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/highlighted arrows.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/left arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/left arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/right arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Options/SubMenu/right arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Tab Button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Tab Button.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Tabs Panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Tabs Panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Tiles Panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Tiles Panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Unity-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/Unity-logo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/highlighted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/highlighted.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/patreon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Main Menu/patreon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.1.2f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/SlideTween.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/Platinio Slide Tween.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Downloads/Compressed/UnityCore-master/UnityCore-master/Audio/AudioController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/FadeTween.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/IAnimation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsGroup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleGroup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelectionButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Downloads/Compressed/AudioManager/AudioManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsElement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Downloads/Compressed/AudioManager/Sound.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/TilesGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/TabsGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TabButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/LevelStat.cs" />
-        <option value="$PROJECT_DIR$/Assets/LevelButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/DetailsPanel.cs" />
-        <option value="$PROJECT_DIR$/Assets/OptionsButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/MenuController.cs" />
-        <option value="$PROJECT_DIR$/Assets/slider.cs" />
-        <option value="$PROJECT_DIR$/Assets/Slider.cs" />
-        <option value="$PROJECT_DIR$/Assets/Slider2.cs" />
-        <option value="$PROJECT_DIR$/Assets/HorizontalSelection.cs" />
-        <option value="$PROJECT_DIR$/Assets/SettingsMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/SettingsMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/GameController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/InfoBarItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/Platinio Slide Tween.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/IAnimation.cs" />
-        <option value="$PROJECT_DIR$/Assets/TestPointer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TabsGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TilesGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/TilesButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/SlideTween.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/InfoBar.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Tween Animations/FadeTween.cs" />
-        <option value="$PROJECT_DIR$/Assets/SettingsLine.cs" />
-        <option value="$PROJECT_DIR$/Assets/SettingsGroupe.cs" />
-        <option value="$PROJECT_DIR$/Assets/SettingsGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/SettingsElement.cs" />
-        <option value="$PROJECT_DIR$/Assets/zontalSelectionButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/HorizontalSelectionButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/ToggleButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/InfoBar.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/Slider2.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/GameController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/MenuController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Core Controller/PageController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/TestAudio.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleButton.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/HorizontalSelection.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Options/DetailsPanel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Level/DetailsPanel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioType.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/SettingsGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/ToggleGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TabsGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/Main Menu/Commun/TilesGroup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menus/UI Elements/SliderGroup.cs" />
         <option value="$PROJECT_DIR$/Assets/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/Core Controller/PageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/Core Controller/Page.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Tween Animations/IAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Tween Animations/FadeTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Tween Animations/Platinio Slide Tween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Tween Animations/SlideTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/HorizontalSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/HorizontalSelectionButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/SliderGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/ToggleButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/ToggleGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Options/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/Main Menu/Commun/TilesGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/Main Menu/Commun/TilesButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/TilesButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/TabsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/TabButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/InfoBarItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/InfoBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI Elements/TilesGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/Main Menu/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Audio/TestAudio.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/Page.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/PageType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/TestMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Level/DetailsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Level/LevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Level/LevelStat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Settings/SettingsElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Settings/SettingsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Tweening/FadeTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Tweening/IAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/HorizontalSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/HorizontalSelectionButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/InfoBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/SliderGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/TabButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/TilesGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/ToggleButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/ToggleGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Scene/SceneType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/Tweening/SlideTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Scene/TestScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/UI/UI/TabsGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Scene/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/Menu/PageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityCore/AudioManager.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1gH70iLVxWnk5XOwQT9HdnlREqw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -133,11 +543,23 @@
       <workItem from="1597938065701" duration="31787000" />
       <workItem from="1598085798552" duration="21807000" />
       <workItem from="1598115266555" duration="41279000" />
+      <workItem from="1598518263439" duration="8317000" />
     </task>
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -154,9 +576,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1139" y="160" width="1391" height="1067" key="dock-window-1/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597944411949" />
-    <state x="621" y="273" width="678" height="592" key="find.popup" timestamp="1598174248939">
+    <state x="621" y="273" width="678" height="592" key="find.popup" timestamp="1598533702817">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="621" y="273" width="678" height="592" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1598174248939" />
+    <state x="621" y="273" width="678" height="592" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598533702817" />
   </component>
 </project>

@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace UnityCore
 {
@@ -13,31 +11,31 @@ namespace UnityCore
 #if UNITY_EDITOR
             private void Update()
             {
-                /*if (Input.GetKeyDown(KeyCode.T))
+                if (Input.GetKeyDown(KeyCode.T))
                 {
-                    audioController.PlayAudio(AudioType.ST_01, true);
+                    audioController.PlayAudio(AudioType.ST_MainMenu, true);
                 }
                 if (Input.GetKeyDown(KeyCode.G))
                 {
-                    audioController.StopAudio(AudioType.ST_01, true);
+                    audioController.StopAudio(AudioType.ST_MainMenu, true);
                 }
                 if (Input.GetKeyDown(KeyCode.B))
                 {
-                    audioController.RestartAudio(AudioType.ST_01, true);
+                    audioController.RestartAudio(AudioType.ST_MainMenu, true);
                 }
                 
                 if (Input.GetKeyDown(KeyCode.Y))
                 {
-                    audioController.PlayAudio(AudioType.SFX_01);
+                    audioController.PlayAudio(AudioType.SFX_MouseClick1);
                 }
                 if (Input.GetKeyDown(KeyCode.H))
                 {
-                    audioController.StopAudio(AudioType.SFX_01);
+                    audioController.StopAudio(AudioType.SFX_MouseClick1);
                 }
                 if (Input.GetKeyDown(KeyCode.N))
                 {
-                    audioController.RestartAudio(AudioType.SFX_01);
-                }*/
+                    audioController.RestartAudio(AudioType.SFX_MouseClick1);
+                }
             }
 
 #endif

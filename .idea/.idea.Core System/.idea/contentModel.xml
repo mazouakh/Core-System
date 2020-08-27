@@ -7,70 +7,6 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="AudioManager.cs" t="Include" />
-        <e p="PlatinioTween" t="Include">
-          <e p="Examples" t="Include">
-            <e p="Scripts" t="Include">
-              <e p="AdvancedUIExample" t="Include">
-                <e p="LoginSceneManager.cs" t="Include" />
-                <e p="UIAnimation.cs" t="Include" />
-                <e p="UIAnimator.cs" t="Include" />
-                <e p="UIFadeAnimation.cs" t="Include" />
-                <e p="UIMoveAnimation.cs" t="Include" />
-                <e p="UIScaleAnimation.cs" t="Include" />
-                <e p="UITranslateAnimation.cs" t="Include" />
-              </e>
-              <e p="CatchGame" t="Include">
-                <e p="Animal.cs" t="Include" />
-                <e p="AnimalCatchManager.cs" t="Include" />
-              </e>
-              <e p="ColorTweenExample" t="Include">
-                <e p="ColorTweenExample.cs" t="Include" />
-                <e p="SpriteColorTweenExample.cs" t="Include" />
-              </e>
-              <e p="EaseShowCase" t="Include">
-                <e p="EaseShowcase.cs" t="Include" />
-              </e>
-              <e p="Lifebar" t="Include">
-                <e p="Lifebar.cs" t="Include" />
-              </e>
-              <e p="PivotShowCase" t="Include">
-                <e p="PivotMovement.cs" t="Include" />
-              </e>
-              <e p="ScalingExample" t="Include">
-                <e p="ScalingExample.cs" t="Include" />
-              </e>
-              <e p="UI" t="Include">
-                <e p="Banner.cs" t="Include" />
-                <e p="ButtonColorTransition.cs" t="Include" />
-                <e p="GearMenu.cs" t="Include" />
-                <e p="Popup.cs" t="Include" />
-                <e p="RotationExample.cs" t="Include" />
-              </e>
-            </e>
-          </e>
-          <e p="Scripts" t="Include">
-            <e p="Core" t="Include">
-              <e p="EasingFunctions.cs" t="Include" />
-              <e p="PlatinioTweenExtension.cs" t="Include" />
-              <e p="Singleton.cs" t="Include" />
-              <e p="Tweens" t="Include">
-                <e p="BaseTween.cs" t="Include" />
-                <e p="ColorTween.cs" t="Include" />
-                <e p="MoveTween.cs" t="Include" />
-                <e p="QuaternionTween.cs" t="Include" />
-                <e p="ValueTween.cs" t="Include" />
-                <e p="Vector2Tween.cs" t="Include" />
-                <e p="Vector3Tween.cs" t="Include" />
-              </e>
-            </e>
-            <e p="PlatinioTween.cs" t="Include" />
-            <e p="TweenPool.cs" t="Include" />
-            <e p="UI" t="Include">
-              <e p="RectTransformHelper.cs" t="Include" />
-            </e>
-          </e>
-        </e>
         <e p="Plugins" t="Include">
           <e p="Demigiant" t="Include">
             <e p="DOTween" t="Include">
@@ -86,6 +22,69 @@
               <e p="readme.txt" t="Include" />
             </e>
           </e>
+          <e p="PlatinioTween" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AdvancedUIExample" t="Include">
+                  <e p="LoginSceneManager.cs" t="Include" />
+                  <e p="UIAnimation.cs" t="Include" />
+                  <e p="UIAnimator.cs" t="Include" />
+                  <e p="UIFadeAnimation.cs" t="Include" />
+                  <e p="UIMoveAnimation.cs" t="Include" />
+                  <e p="UIScaleAnimation.cs" t="Include" />
+                  <e p="UITranslateAnimation.cs" t="Include" />
+                </e>
+                <e p="CatchGame" t="Include">
+                  <e p="Animal.cs" t="Include" />
+                  <e p="AnimalCatchManager.cs" t="Include" />
+                </e>
+                <e p="ColorTweenExample" t="Include">
+                  <e p="ColorTweenExample.cs" t="Include" />
+                  <e p="SpriteColorTweenExample.cs" t="Include" />
+                </e>
+                <e p="EaseShowCase" t="Include">
+                  <e p="EaseShowcase.cs" t="Include" />
+                </e>
+                <e p="Lifebar" t="Include">
+                  <e p="Lifebar.cs" t="Include" />
+                </e>
+                <e p="PivotShowCase" t="Include">
+                  <e p="PivotMovement.cs" t="Include" />
+                </e>
+                <e p="ScalingExample" t="Include">
+                  <e p="ScalingExample.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="Banner.cs" t="Include" />
+                  <e p="ButtonColorTransition.cs" t="Include" />
+                  <e p="GearMenu.cs" t="Include" />
+                  <e p="Popup.cs" t="Include" />
+                  <e p="RotationExample.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Core" t="Include">
+                <e p="EasingFunctions.cs" t="Include" />
+                <e p="PlatinioTweenExtension.cs" t="Include" />
+                <e p="Singleton.cs" t="Include" />
+                <e p="Tweens" t="Include">
+                  <e p="BaseTween.cs" t="Include" />
+                  <e p="ColorTween.cs" t="Include" />
+                  <e p="MoveTween.cs" t="Include" />
+                  <e p="QuaternionTween.cs" t="Include" />
+                  <e p="ValueTween.cs" t="Include" />
+                  <e p="Vector2Tween.cs" t="Include" />
+                  <e p="Vector3Tween.cs" t="Include" />
+                </e>
+              </e>
+              <e p="PlatinioTween.cs" t="Include" />
+              <e p="TweenPool.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="RectTransformHelper.cs" t="Include" />
+              </e>
+            </e>
+          </e>
         </e>
         <e p="Scripts" t="Include">
           <e p="UnityCore" t="Include">
@@ -94,45 +93,46 @@
               <e p="AudioType.cs" t="Include" />
               <e p="TestAudio.cs" t="Include" />
             </e>
-            <e p="GameController.cs" t="Include" />
-            <e p="Menus" t="Include">
-              <e p="Core Controller" t="Include">
-                <e p="Page.cs" t="Include" />
-                <e p="PageController.cs" t="Include" />
-                <e p="PageType.cs" t="Include" />
-                <e p="TestMenu.cs" t="Include" />
+            <e p="AudioManager.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="Menu" t="Include">
+              <e p="MenuController.cs" t="Include" />
+              <e p="Page.cs" t="Include" />
+              <e p="PageController.cs" t="Include" />
+              <e p="PageType.cs" t="Include" />
+              <e p="TestMenu.cs" t="Include" />
+            </e>
+            <e p="Scene" t="Include">
+              <e p="SceneController.cs" t="Include" />
+              <e p="SceneType.cs" t="Include" />
+              <e p="TestScene.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="Level" t="Include">
+                <e p="DetailsPanel.cs" t="Include" />
+                <e p="LevelButton.cs" t="Include" />
+                <e p="LevelStat.cs" t="Include" />
               </e>
-              <e p="Main Menu" t="Include">
-                <e p="Commun" t="Include">
-                  <e p="InfoBar.cs" t="Include" />
-                  <e p="InfoBarItem.cs" t="Include" />
-                  <e p="SettingsElement.cs" t="Include" />
-                  <e p="SettingsGroup.cs" t="Include" />
-                  <e p="TabButton.cs" t="Include" />
-                  <e p="TabsGroup.cs" t="Include" />
-                  <e p="TilesButton.cs" t="Include" />
-                  <e p="TilesGroup.cs" t="Include" />
-                </e>
-                <e p="Level" t="Include">
-                  <e p="DetailsPanel.cs" t="Include" />
-                  <e p="LevelButton.cs" t="Include" />
-                  <e p="LevelStat.cs" t="Include" />
-                </e>
-                <e p="MenuController.cs" t="Include" />
-                <e p="Options" t="Include">
-                  <e p="SettingsMenu.cs" t="Include" />
-                </e>
+              <e p="Settings" t="Include">
+                <e p="SettingsElement.cs" t="Include" />
+                <e p="SettingsGroup.cs" t="Include" />
+                <e p="SettingsMenu.cs" t="Include" />
               </e>
-              <e p="Tween Animations" t="Include">
+              <e p="Tweening" t="Include">
                 <e p="FadeTween.cs" t="Include" />
                 <e p="IAnimation.cs" t="Include" />
-                <e p="Platinio Slide Tween.cs" t="Include" />
                 <e p="SlideTween.cs" t="Include" />
               </e>
-              <e p="UI Elements" t="Include">
+              <e p="UI" t="Include">
                 <e p="HorizontalSelection.cs" t="Include" />
                 <e p="HorizontalSelectionButton.cs" t="Include" />
+                <e p="InfoBar.cs" t="Include" />
+                <e p="InfoBarItem.cs" t="Include" />
                 <e p="SliderGroup.cs" t="Include" />
+                <e p="TabButton.cs" t="Include" />
+                <e p="TabsGroup.cs" t="Include" />
+                <e p="TilesButton.cs" t="Include" />
+                <e p="TilesGroup.cs" t="Include" />
                 <e p="ToggleButton.cs" t="Include" />
                 <e p="ToggleGroup.cs" t="Include" />
               </e>
