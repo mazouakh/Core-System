@@ -6,7 +6,8 @@
         {
             None,
             Loading,
-            Menu
+            Menu,
+            PausePopup
         }
     }
 }

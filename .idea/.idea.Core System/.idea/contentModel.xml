@@ -94,6 +94,7 @@
               <e p="TestAudio.cs" t="Include" />
             </e>
             <e p="AudioManager.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
             <e p="GameManager.cs" t="Include" />
             <e p="Menu" t="Include">
               <e p="MenuController.cs" t="Include" />
@@ -106,6 +107,9 @@
               <e p="SceneController.cs" t="Include" />
               <e p="SceneType.cs" t="Include" />
               <e p="TestScene.cs" t="Include" />
+            </e>
+            <e p="Session" t="Include">
+              <e p="SessionController.cs" t="Include" />
             </e>
             <e p="UI" t="Include">
               <e p="Level" t="Include">
